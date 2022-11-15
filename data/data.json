@@ -1,0 +1,17 @@
+{
+    "person": {
+        "firstName" : "juliet",
+        "lastName" : "kim"
+    },
+
+    "work" : {
+        "job" : "server",
+        "program" : "Digital Design and Development Diploma",
+        "url" : "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+    },
+
+    "study" : {
+        "programs": ["Applied Software Development Certificate", "Computer Systems Certificate", "Computer Systems Diploma"],
+        "department" : "School of Computing & Information Technology"
+    }
+}
